@@ -1,0 +1,2 @@
+comando para correr un endpoint de una API desde cmd
+curl  https://dummyjson.com/auth/products/2

@@ -1,0 +1,24 @@
+{
+    "firstName": "Blass",
+    "lastName": "Academy",
+    "age": 35,
+    "gender": "male",
+    "email": "blass.academy@blassacademy.com",
+    "phone": "+91 123456",
+    "role": "courses",
+    "address": {
+        "address": "607 Fourth Street",
+        "city": "Blass City",
+        "state": "Academy City",
+        "country": "United Blass",
+        "coordinates": {
+            "lat": 0.505589,
+            "lng": 157.43281
+        }
+    },
+    "company": {
+        "department": "Blass Reources",
+        "name": "Blass - Name",
+        "title": "Test Automation Engineer"
+    }
+}

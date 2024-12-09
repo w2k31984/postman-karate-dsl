@@ -1,0 +1,9 @@
+{
+  "id": "#number",
+  "title": "#string",
+  "price": "#number",
+  "stock": "#number",
+  "rating": "#number",
+  "description": "#string",
+  "category": "#string"
+}
